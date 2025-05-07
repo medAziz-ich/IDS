@@ -60,18 +60,6 @@ sudo ./dist/run_ids -i eth0
 
 ---
 
-## 🧠 Agile Methodology (Scrum)
-
-We followed Scrum methodology with the following roles:
-
-* **Scrum Master**: coordinated tasks and progress
-* **Product Owner**: defined functional needs
-* **Developers**: implemented the system
-
-Work was divided into **sprints** with clear goals (capture, analysis, detection, alert). **Daily meetings** ensured progress tracking, and **sprint reviews** validated each step.
-
----
-
 ## 📁 Files
 
 * `IDS.py` – System entry point
